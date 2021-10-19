@@ -1,7 +1,7 @@
 ### Hello, nice to meet you! 👋
 
 
-Here are some ideas to get you started:
+Here's what I am up to:
 
 - 🔭 I’m currently working on keeping my skills fresh by working on small quality of life scripts to automate redundant and time-consuming tasks.
 - 🌱 I’m currently learning about new and useful Python libraries. I am also improving my SQL skills to one day become a data wizard.
